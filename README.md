@@ -10,6 +10,7 @@ This Project is all about to mitigate the troubles between to find correct educa
 In this Project,worked on backend part like Database Operations,Cloud Management and Operations.
 
 Main duties during this Project are:
+
 -Created RDS instance,EC2 instance,S3 storage and ElasticBean Stalk application on AWS cloud
 -Extracted data using Web Scrapers and stored them in datawarehouse
 -Apart from that, main important thing which was parsing Geographical information like latitude,longitude,formated address for given places having abstracted address information
